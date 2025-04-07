@@ -1,4 +1,4 @@
-package Act1;
+package Act2;
 public class SalesPerson extends Employee {
    
     private double comissionPercentage;

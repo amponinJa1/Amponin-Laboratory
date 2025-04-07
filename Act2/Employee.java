@@ -1,4 +1,4 @@
-package Act1;
+package Act2;
 public class Employee {
     private String name;
     private int age;

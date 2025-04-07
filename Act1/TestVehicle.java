@@ -1,4 +1,4 @@
-package Act2;
+package Act1;
 import java.util.Scanner;
 
     // BASE CLASS : VEHICLE

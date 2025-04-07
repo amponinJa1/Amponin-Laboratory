@@ -1,4 +1,4 @@
-package Act1;
+package Act2;
 public class Analyst extends Employee {
     private String department;
 
